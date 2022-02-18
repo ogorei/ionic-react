@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "fdcp-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
