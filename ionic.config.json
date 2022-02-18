@@ -1,0 +1,7 @@
+{
+  "name": "fdcp-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
